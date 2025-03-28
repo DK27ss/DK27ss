@@ -41,6 +41,7 @@ I'm also interested in quantum technology, space and more.. ^^
   - ACARS
   - AWACS
   - DATV (telemetry)
+  - GSM - LAPDm
 
 - Learn advanced Red Team strategies and methodologies. [Traditional PENTEST]
   - AV Evasion
@@ -50,6 +51,7 @@ I'm also interested in quantum technology, space and more.. ^^
   - Data Exfiltration
   - LotL (Living-off-the-Land)
   - Supply Chain
+  - IoT & SCADA System
 
 - Learn advanced Red Team strategies and methodologies. [DeFi PENTEST]
    - Vulnerability Identification
