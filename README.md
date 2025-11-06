@@ -10,6 +10,10 @@ I'm also interested in quantum technology, space and more.. ^^
 
 - I write, articles and techniques on my [website](https://google.com) (soon..)
 
+## Web3 PoC
+
+- [Balancer](https://github.com/DK27ss/BalancerV2-128M-PoC)
+- [Abracadabra](https://github.com/DK27ss/Abracadabra-1.7M-PoC)
 
 ## Softwares
 - [TYPHOON](https://github.com/DK27ss/TYPHOON-2)
@@ -21,11 +25,6 @@ I'm also interested in quantum technology, space and more.. ^^
 
 ## Skills
 - [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques) (StarPalace)
-- [HackTheBox](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
-- [YesWeHack](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
-- [HackerOne](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
-- [CyberDefenders](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
-- [NodeGuardians](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
 
 ## 🌱 Currently Exploring
 
