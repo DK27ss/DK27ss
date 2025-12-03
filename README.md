@@ -14,6 +14,7 @@ I'm also interested in quantum technology, space and more.. ^^
 
 - [Balancer](https://github.com/DK27ss/BalancerV2-128M-PoC)
 - [Abracadabra](https://github.com/DK27ss/Abracadabra-1.7M-PoC)
+- [HunnyFinance](https://github.com/DK27ss/HunnyFinance-Earn-Manipulation)
 - [0x0689a](https://github.com/DK27ss/0x0689a-330K-PoC)
 
 ## Softwares
