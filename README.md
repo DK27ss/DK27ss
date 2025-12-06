@@ -8,7 +8,7 @@ I'm also interested in quantum technology, space and more.. ^^
 
 ## 🚀 About Me
 
-- I write, articles and techniques on my [website](https://google.com) (soon..)
+- I write, articles and techniques on my [website](https://dk27ss.github.io)
 
 ## Web3 PoC
 
