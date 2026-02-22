@@ -2,7 +2,7 @@
 
 0click researcher
 
-defi defi defi defi defi defi defi
+defi defi defi defi defi defi defi 👨🏾‍🦯‍➡️
 
 ## About Me
 
