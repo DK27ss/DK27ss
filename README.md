@@ -22,7 +22,7 @@ defi defi defi defi defi defi defi 👨🏾‍🦯‍➡️
 - [RVSL4](https://github.com/DK27ss/RVSL4)
 
 ## Tech Stack
-[![Star Skills](https://skillicons.dev/icons?i=python,solidity,c,js,vyper)](https://skillicons.dev)
+[![Star Skills](https://skillicons.dev/icons?i=python,solidity,c,js)](https://skillicons.dev)
 
 ## Skills
 - [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques) (StarPalace)
