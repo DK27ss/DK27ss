@@ -4,9 +4,7 @@
 
 defi defi defi defi defi defi defi
 
-![Star Stats](https://github-readme-stats.vercel.app/api?username=DK27ss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
+## About Me
 
 - I write, articles and techniques on my [website](https://dk27ss.github.io)
 
@@ -29,7 +27,7 @@ defi defi defi defi defi defi defi
 ## Skills
 - [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques) (StarPalace)
 
-## 🌱 Currently Exploring
+## Exploring
 
 - Learn about FIVE EYES & Snowden files (OCCRP)
   - Intelligence services Methods used
