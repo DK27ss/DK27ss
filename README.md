@@ -1,8 +1,7 @@
-# Hello world! 👋
+# aGVsbG8 👋
 
-Motivated by a curiosity for Red Team and APT, I've been building a love for digital espionage and 0click for several years. My goal is to learn more in the world of signals intelligence (ROEM), to explore new ideas that push the technology further and to share my knowledge with the community.
-
-I'm also interested in quantum technology, space and more.. ^^
+0click researcher
+defi defi defi defi defi defi defi
 
 ![Star Stats](https://github-readme-stats.vercel.app/api?username=DK27ss&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
