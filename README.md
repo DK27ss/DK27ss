@@ -4,7 +4,7 @@
 
 defi defi defi defi defi defi defi 👨🏾‍🦯‍➡️
 
-<img width="88" height="31" alt="button" src="https://github.com/user-attachments/assets/1f09a649-b588-4b82-8576-0611a72ae888" />
+![monero](https://github.com/user-attachments/assets/74fcd341-01a4-475d-b62d-90be52b38a24)
 
 ## About Me
 
