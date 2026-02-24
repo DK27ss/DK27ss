@@ -4,7 +4,7 @@
 
 defi defi defi defi defi defi defi 👨🏾‍🦯‍➡️
 
-![000010](https://github.com/user-attachments/assets/094ad3a2-49fc-4587-8c19-01e979557abf)
+<img width="88" height="31" alt="button" src="https://github.com/user-attachments/assets/1f09a649-b588-4b82-8576-0611a72ae888" />
 
 ## About Me
 
