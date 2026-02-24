@@ -4,6 +4,8 @@
 
 defi defi defi defi defi defi defi 👨🏾‍🦯‍➡️
 
+![000010](https://github.com/user-attachments/assets/094ad3a2-49fc-4587-8c19-01e979557abf)
+
 ## About Me
 
 - I write, articles and techniques on my [website](https://dk27ss.github.io)
